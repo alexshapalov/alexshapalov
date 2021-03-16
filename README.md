@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Alex Shapalov, Ruby on Rails developer. 
+
 <!--
 **SashkaSh/SashkaSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
