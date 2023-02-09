@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Maker [Remotely Jobs Board](https://www.remotely.jobs)
+
