@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am Alex Shapalov, Ruby on Rails developer. 
-
 I write Ruby code that (sometimes) works!
 
 ### 🔭 I'm recently starting and working on:
@@ -17,10 +15,6 @@ I write Ruby code that (sometimes) works!
 <!-- ### 🌱 I’m currently learning and watching: -->
 
 <!-- * [whatthegem](https://github.com/zverok/whatthegem): Console tool for fetching information about gems (stats, usage, recent changes) -->
-
-### Fun fact:
-
-My best Chess.com rating was 1950! 
 
 <!--
 **SashkaSh/SashkaSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
