@@ -5,7 +5,7 @@ I write Ruby code that (sometimes) works!
 ### 🔭 I'm recently starting and working on:
 
 * [Algoexpert](https://github.com/alexshapalov/algoexpert): Algorithms and Data Structure problems
-* [RubyAI](https://github.com/alexshapalov/rubyai): Ruby and AI world.
+* [RubyAI](https://github.com/alexshapalov/rubyai): Use the OpenAI API with Ruby! 
 * [Monorails](https://github.com/alexshapalov/monorails): Monolith Ruby on Rails application (Best Practice)
 * [Functional Programming](https://github.com/alexshapalov/Functional-Programming-For-Ruby-Developers): Functional Programming For Ruby Developers
 * [Remotely jobs](https://www.remotely.jobs): Job board for finding and listing remote jobs.
