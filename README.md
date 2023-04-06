@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on:
 ### How to reach me:
 
+Idea
+
+- Devblog is a complete Jekyll theme designed for blog for developers
+
+
 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
