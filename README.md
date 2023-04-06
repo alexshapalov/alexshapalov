@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 Idea
 
 - Devblog is a complete Jekyll theme designed for blog for developers
+- Ruby-on-rails-interview-questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 
 
 
