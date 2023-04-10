@@ -8,6 +8,9 @@ I write Ruby code that (sometimes) works!
 * [Algoexpert](https://github.com/alexshapalov/algoexpert): Algorithms and Data Structure problems
 * [Functional Programming](https://github.com/alexshapalov/Functional-Programming-For-Ruby-Developers): Functional Programming For Ruby Developers
 * [Remotely jobs](https://www.remotely.jobs): Job board for finding and listing remote jobs.
+
+
+
 <!-- * [Monorails](https://github.com/alexshapalov/monorails): Monolith Ruby on Rails application (Best Practice) -->
 <!--  Collection of useful libraries for web30, Crypto, and Blockchain. -->
 
@@ -21,20 +24,15 @@ I write Ruby code that (sometimes) works!
 Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on:
-
 ### 🌱 I’m currently learning:
-
 ### 👯 I’m looking to collaborate on:
 ### How to reach me:
 
-Idea
-
+Ideas:
 - HumanSQL, translate from human to SQL www.humansql.dev
 - www.rubyai.net
 - Devblog is a complete Jekyll theme designed for blog for developers
 - Ruby-on-rails-interview-questions https://github.com/cdrrazan/awesome-ROR-interview-questions
-
-
 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
