@@ -9,8 +9,6 @@ I write Ruby code that (sometimes) works!
 * [Functional Programming](https://github.com/alexshapalov/Functional-Programming-For-Ruby-Developers): Functional Programming For Ruby Developers
 * [Remotely jobs](https://www.remotely.jobs): Job board for finding and listing remote jobs.
 
-
-
 <!-- * [Monorails](https://github.com/alexshapalov/monorails): Monolith Ruby on Rails application (Best Practice) -->
 <!--  Collection of useful libraries for web30, Crypto, and Blockchain. -->
 <!-- ### 🌱 I’m currently learning and watching: -->
