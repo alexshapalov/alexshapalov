@@ -32,9 +32,9 @@ Ideas:
 - Top Ruby on rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 - www.cryptojobs.fyi
 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with
+- 📫 How to reach me:
+- ⚡ Fun fact:
 -->
 
 
