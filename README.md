@@ -30,6 +30,8 @@ Ideas:
 - Top Ruby on rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 - www.cryptojobs.fyi
 - https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
+- https://github.com/alex5h
+- https://github.com/a1xsh. (a1x.sh) a1ex
 
 - 🤔 I’m looking for help with
 - 📫 How to reach me:
