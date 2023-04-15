@@ -29,6 +29,7 @@ Ideas:
 - Devblog is a complete Jekyll theme designed for blog for developers
 - Top Ruby on rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 - www.cryptojobs.fyi
+- https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
 
 - 🤔 I’m looking for help with
 - 📫 How to reach me:
