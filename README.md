@@ -35,7 +35,6 @@ Ideas:
 
 - 🤔 I’m looking for help with
 - 📫 How to reach me:
-- ⚡ Fun fact:
 -->
 
 
