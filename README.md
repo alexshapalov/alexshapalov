@@ -31,7 +31,7 @@ Ideas:
 - www.cryptojobs.fyi
 - https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
 - https://github.com/alex5h
-- https://github.com/a1xsh  a1x.sh, a1ex.sh, alexsh.dev
+- https://github.com/a1xsh  a1x.sh, a1ex.sh, www.alexsh.dev
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
