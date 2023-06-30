@@ -37,6 +37,8 @@ Ideas:
 Blog Ideas
 - How Puma works
 - Start with GPT, OpenAI and RubyAI gem
+- Extend Self in Mudule
+- OOP
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
