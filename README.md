@@ -40,6 +40,7 @@ Blog Ideas:
 - OOP
 - Measure rails speed with MiniProfiler
 - Start blog with jekull
+- Proc, Block and Lambda
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
