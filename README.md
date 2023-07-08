@@ -33,13 +33,13 @@ Ideas:
 - https://github.com/alex5h
 - https://github.com/a1xsh  a1x.sh, a1ex.sh, www.alexsh.dev
 
-
 Blog Ideas:
 - How Puma works
 - Start with GPT, OpenAI and RubyAI gem
 - Extend Self in Mudule
 - OOP
 - Measure rails speed with MiniProfiler
+- Start blog with jekull
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
