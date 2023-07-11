@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 Ideas:
 - HumanSQL, translate from human to SQL www.humansql.dev
 - www.rubyai.net (gem for Ruby, ChatGPT)
-- Devblog is a complete Jekyll theme designed for blog for developers
-- Top Ruby on rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
+- Devblog is a complete Jekyll theme designed for blogs for developers
+- Top Ruby on Rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 - www.cryptojobs.fyi
 - https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
 - https://github.com/alex5h
@@ -35,12 +35,12 @@ Ideas:
 
 Blog Ideas:
 - How Puma works
-- Start with GPT, OpenAI and RubyAI gem
-- Extend Self in Mudule
+- Start with GPT, OpenAI, and RubyAI gem
+- Extend Self in Module
 - OOP
 - Measure rails speed with MiniProfiler
-- Start blog with jekull
-- Proc, Block and Lambda
+- Start a blog with Jekyll
+- Proc, Block, and Lambda
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
