@@ -41,6 +41,7 @@ Blog Ideas:
 - Measure rails speed with MiniProfiler
 - Start a blog with Jekyll
 - Proc, Block, and Lambda
+- Module with initialize! 
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
