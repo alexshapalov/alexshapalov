@@ -42,6 +42,7 @@ Blog Ideas:
 - Start a blog with Jekyll
 - Proc, Block, and Lambda
 - Module with initialize! 
+- ActiveRecord OrderedOptions for hash. Rails Explorer 1 (serious of articles about exploring Rails)
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
