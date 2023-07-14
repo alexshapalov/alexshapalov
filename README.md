@@ -53,6 +53,11 @@ Book:
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
 
+Conf
+- Rails conf
+- Rubt conf
+- RailsLA conf
+
 - 🤔 I’m looking for help with
 - 📫 How to reach me:
 -->
