@@ -43,6 +43,12 @@ Blog Ideas:
 - Proc, Block, and Lambda
 - Module with initialize! 
 - ActiveRecord OrderedOptions for hash. Rails Explorer 1 (serious of articles about exploring Rails)
+- Pain of OOP.
+- Immutable Ruby 
+
+
+Book: 
+- Object Oriented Ruby!
 
 alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
