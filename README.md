@@ -28,10 +28,16 @@ Ideas:
 - www.rubyai.net (gem for Ruby, ChatGPT)
 - Devblog is a complete Jekyll theme designed for blogs for developers
 - Top Ruby on Rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
-- www.cryptojobs.fyi
 - https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
 - https://github.com/alex5h
 - https://github.com/a1xsh  a1x.sh, a1ex.sh, www.alexsh.dev
+
+Sites: 
+- www.rubyai.net
+
+Job Board
+- www.cryptojobs.fyi
+- www.railsjobs.net
 
 Blog Ideas:
 - How Puma works
@@ -45,7 +51,6 @@ Blog Ideas:
 - ActiveRecord OrderedOptions for hash. Rails Explorer 1 (serious of articles about exploring Rails)
 - Pain of OOP.
 - Immutable Ruby 
-
 
 Book: 
 - Object Oriented Ruby!
