@@ -66,8 +66,11 @@ Conf
 - RailsLA conf(www.railsla.com)
 - RailsLA meetup 
 
-- 🤔 I’m looking for help with
-- 📫 How to reach me:
+- Write a post with VSCode, 
+- add a link to GitHub
+- Add the link to other popular ruby sites 
+- Add to Twitter!
+
 -->
 
 
