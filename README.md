@@ -51,6 +51,8 @@ Blog Ideas:
 - ActiveRecord OrderedOptions for hash. Rails Explorer 1 (serious of articles about exploring Rails)
 - Pain of OOP.
 - Immutable Ruby 
+- TCP VS UDP
+- Simple DNS in Ruby
 
 Book: 
 - Object Oriented Ruby!
@@ -59,9 +61,10 @@ alexsh.dev/ruby-for-beginers
 alexsh.dev/ruby
 
 Conf
+- Ruby conf
 - Rails conf
-- Rubt conf
-- RailsLA conf
+- RailsLA conf(www.railsla.com)
+- RailsLA meetup 
 
 - 🤔 I’m looking for help with
 - 📫 How to reach me:
