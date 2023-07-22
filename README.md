@@ -53,6 +53,7 @@ Blog Ideas:
 - Immutable Ruby 
 - TCP VS UDP
 - Simple DNS in Ruby
+- Python VS Ruby
 
 Book: 
 - Object Oriented Ruby!
