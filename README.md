@@ -54,6 +54,7 @@ Blog Ideas:
 - TCP VS UDP
 - Simple DNS in Ruby
 - Python VS Ruby
+- BFS, DFS, Data Structore in Ruby
 
 Book: 
 - Object Oriented Ruby!
