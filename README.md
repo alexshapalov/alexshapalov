@@ -56,6 +56,7 @@ Blog Ideas:
 - Python VS Ruby
 - BFS, DFS, Data Structure in Ruby
 - Python Basic
+- PUMA, OSS My first commit
 
 Book: 
 - Object Oriented Ruby!
