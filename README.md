@@ -57,6 +57,7 @@ Blog Ideas:
 - BFS, DFS, Data Structure in Ruby
 - Python Basic
 - PUMA, OSS My first commit
+- Scrum for remote teams
 
 Book: 
 - Object Oriented Ruby!
