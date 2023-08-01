@@ -58,6 +58,8 @@ Blog Ideas:
 - Python Basic
 - PUMA, OSS My first commit
 - Scrum for remote teams
+- Write DNS with Ruby
+- Setup XML with Heroku and AWS
 
 Book: 
 - Object Oriented Ruby!
