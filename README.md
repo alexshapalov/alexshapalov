@@ -60,6 +60,7 @@ Blog Ideas:
 - Scrum for remote teams
 - Write DNS with Ruby
 - Setup XML with Heroku and AWS
+- All you need to know about Sidekiq
 
 Book: 
 - Object Oriented Ruby!
