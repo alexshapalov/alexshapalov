@@ -34,7 +34,7 @@ Ideas:
 
 Gems and OSS: 
 - humansql.dev
-- thematicthems
+- ThematicRails
 - rubyai
 
 Sites: 
