@@ -32,6 +32,11 @@ Ideas:
 - https://github.com/alex5h
 - https://github.com/a1xsh  a1x.sh, a1ex.sh, www.alexsh.dev
 
+Gems and OSS: 
+- humansql.dev
+- thematicthems
+- rubyai
+
 Sites: 
 - www.rubyai.net
 
@@ -61,6 +66,7 @@ Blog Ideas:
 - Write DNS with Ruby
 - Setup XML with Heroku and AWS
 - All you need to know about Sidekiq
+- Thematic Rails
 
 Book: 
 - Object Oriented Ruby!
