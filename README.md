@@ -88,6 +88,8 @@ Conf
 - Add to Twitter!
 
 WHY?
+
+Goal: 2000 commits/y
 -->
 
 
