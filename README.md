@@ -69,6 +69,7 @@ Blog Ideas:
 - Setup XML with Heroku and AWS
 - All you need to know about Sidekiq
 - Thematic Rails
+- Railties core of rails (https://chat.openai.com/share/6306bdd4-431b-444e-8fdc-9ae996514b0e)
 
 Book: 
 - Object Oriented Ruby!
