@@ -41,7 +41,7 @@ Gems and OSS:
 Sites: 
 - www.rubyai.net
 
-Job Board
+Job Boards:
 - www.cryptojobs.fyi
 - www.railsjobs.net
 - www.remotely.jobs
