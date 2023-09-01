@@ -71,7 +71,7 @@ Blog Ideas:
 - Thematic Rails
 - Railties core of rails (https://chat.openai.com/share/6306bdd4-431b-444e-8fdc-9ae996514b0e)
 
-Book: 
+Books: 
 - Object Oriented Ruby!
 
 alexsh.dev/ruby-for-beginers
