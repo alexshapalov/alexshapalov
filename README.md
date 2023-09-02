@@ -42,9 +42,10 @@ Sites:
 - www.rubyai.net
 
 Job Boards:
+- www.remotely.jobs
 - www.cryptojobs.fyi
 - www.railsjobs.net
-- www.remotely.jobs
+
 
 Blog Ideas:
 - How Puma works
@@ -70,6 +71,7 @@ Blog Ideas:
 - All you need to know about Sidekiq
 - Thematic Rails
 - Railties core of rails (https://chat.openai.com/share/6306bdd4-431b-444e-8fdc-9ae996514b0e)
+- Rails generators
 
 Books: 
 - Object Oriented Ruby!
