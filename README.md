@@ -92,6 +92,10 @@ Conf
 - Add the link to other popular ruby sites 
 - Add to Twitter!
 
+YouTube:
+Alex in Tech
+SiliconCode 
+
 WHY?
 
 Goal: 2000 commits/y
