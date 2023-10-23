@@ -1,6 +1,6 @@
 Hi there 👋!
 
-I write Ruby code that (sometimes) works
+I write Ruby code that (sometimes) works.
 
 🔭 I'm recently starting and working on:
 
@@ -45,6 +45,11 @@ Job Boards:
 - www.cryptojobs.fyi
 - www.railsjobs.net
 
+- deploy-rails-with-kamal.org
+
+- railsnew.dev  Start with Rails 7. Free kit and template/ + video from me. 
+- startwithrails.dev - 31 days course for new rails developer 
+
 
 Blog Ideas:
 - How Puma works
@@ -72,6 +77,11 @@ Blog Ideas:
 - Railties core of rails (https://chat.openai.com/share/6306bdd4-431b-444e-8fdc-9ae996514b0e)
 - Rails generators
 - Patterns in Ruby
+- Automation with Ansible 
+- Rails patterns
+- What is new in Rails 7.1
+- Deploy rails with Kamal. Tutorial
+
 
 
 Books: 
