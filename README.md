@@ -81,6 +81,7 @@ Blog Ideas:
 - Rails patterns
 - What is new in Rails 7.1
 - Deploy rails with Kamal. Tutorial
+- Deploy static site with Kamal
 
 
 
