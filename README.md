@@ -30,7 +30,7 @@ Ideas:
 - Top Ruby on Rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 - https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
 - https://github.com/alex5h
-- https://github.com/a1xsh  a1x.sh, a1ex.sh, www.alexsh.dev
+- https://github.com/a1xsh  a1x.sh, a1ex.sh, alexsh.dev
 
 Gems and OSS: 
 - humansql.dev
@@ -49,6 +49,9 @@ Job Boards:
 
 - railsnew.dev  Start with Rails 7. Free kit and template/ + video from me. 
 - startwithrails.dev - 31 days course for new rails developer 
+
+- humansql.dev
+- humansql.dev/sql-joins-visualization
 
 
 Blog Ideas:
