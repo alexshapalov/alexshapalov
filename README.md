@@ -53,7 +53,6 @@ Job Boards:
 - humansql.dev
 - humansql.dev/sql-joins-visualization
 
-
 Blog Ideas:
 - How Puma works
 - Start with GPT, OpenAI, and RubyAI gem
@@ -85,6 +84,7 @@ Blog Ideas:
 - What is new in Rails 7.1
 - Deploy rails with Kamal. Tutorial
 - Deploy static site with Kamal
+- Start with RubyAI 
 
 
 
