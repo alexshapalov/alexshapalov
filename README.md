@@ -34,6 +34,7 @@ Ideas:
 
 Gems and OSS: 
 - humansql.dev
+- humansql.dev/sql-joins  (https://sql-joins.leopard.in.ua/)
 - ThematicRails
 - rubyai
 
