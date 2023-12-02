@@ -1,6 +1,6 @@
 Hi there 👋!
 
-I write Ruby code that (sometimes) works.
+I am an independent Ruby on Rails consultant and startup maker.
 
 🔭 I'm recently starting and working on:
 
