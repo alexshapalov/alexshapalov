@@ -46,7 +46,7 @@ Job Boards:
 - www.cryptojobs.fyi
 - www.railsjobs.net
 
-- deploy-rails-with-kamal.org
+- deploywithkamal.org and Docker 
 
 - railsnew.dev  Start with Rails 7. Free kit and template/ + video from me. 
 - startwithrails.dev - 31 days course for new rails developer 
