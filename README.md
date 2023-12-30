@@ -32,6 +32,9 @@ Ideas:
 - https://github.com/alex5h
 - https://github.com/a1xsh  a1x.sh, a1ex.sh, alexsh.dev
 
+Products:
+- RailsSAAS Tamplate
+
 Gems and OSS: 
 - humansql.dev
 - humansql.dev/sql-joins  (https://sql-joins.leopard.in.ua/)
