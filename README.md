@@ -33,7 +33,7 @@ Ideas:
 - https://github.com/a1xsh  a1x.sh, a1ex.sh, alexsh.dev
 
 Products:
-- RailsSAAS Tamplate
+- RailsSAAS Template www.railsaas.net
 
 Gems and OSS: 
 - humansql.dev
