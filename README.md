@@ -53,7 +53,6 @@ Job Boards:
 
 - railsnew.dev  Start with Rails 7. Free kit and template/ + video from me. 
 - startwithrails.dev - 31 days course for new rails developer 
-
 - humansql.dev
 - humansql.dev/sql-joins-visualization
 
