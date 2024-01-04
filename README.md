@@ -114,7 +114,10 @@ SiliconCode
 
 WHY?
 
-Goal: 2000 commits/y
+Goal 2023: 2000 commits/y
+
+Goal 2024: 1000 commits 
+
 -->
 
 
