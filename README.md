@@ -30,7 +30,7 @@ Ideas:
 - Top Ruby on Rails interview questions https://github.com/cdrrazan/awesome-ROR-interview-questions
 - https://github.com/the-teacher/rails7-startkit Rails 7 StarKir
 - https://github.com/alex5h
-- https://github.com/a1xsh  a1x.sh, a1ex.sh, alexsh.dev
+- https://github.com/a1xsh a1x.sh, a1ex.sh, alexsh.dev
 
 Products:
 - RailsSAAS Template www.railsaas.net
