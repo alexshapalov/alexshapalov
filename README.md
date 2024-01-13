@@ -89,8 +89,6 @@ Blog Ideas:
 - Deploy static site with Kamal
 - Start with RubyAI 
 
-
-
 Books: 
 - Object Oriented Ruby!
 
