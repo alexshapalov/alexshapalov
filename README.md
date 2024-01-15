@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on:
 ### How to reach me:
 
+AWS!
+
 Ideas:
 - HumanSQL, translate from human to SQL www.humansql.dev
 - www.rubyai.net (gem for Ruby, ChatGPT)
