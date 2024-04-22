@@ -2,9 +2,7 @@ Hi there 👋
 
 I am an independent Ruby on Rails consultant and startup maker.
 
-
 🔭 I'm recently starting and working on:
-
 
 * [RubyAI](https://github.com/alexshapalov/rubyai): Use the OpenAI API with Ruby, ChatGPT! 
 * [Algoexpert](https://github.com/alexshapalov/algoexpert): Algorithms and Data Structure problems
