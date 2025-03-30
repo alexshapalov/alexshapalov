@@ -8,7 +8,7 @@ I am an independent Ruby on Rails consultant and startup maker.
 * [Algoexpert](https://github.com/alexshapalov/algoexpert): Algorithms and Data Structure problems
 * [Functional Programming](https://github.com/alexshapalov/Functional-Programming-For-Ruby-Developers): Functional Programming For Ruby Developers
 * [Remotely jobs](https://www.remotely.jobs): Job board for finding and listing remote jobs
-* [AI Resume Builder](https://www.jobsgpt.org): JobsGPT - AI Resume Builder & AI job search
+* [AI Resume Builder](https://www.jobsgpt.org): JobsGPT - Free AI Resume Builder & AI job search
 
 
 <!-- * [Monorails](https://github.com/alexshapalov/monorails): Monolith Ruby on Rails application (Best Practice) -->
