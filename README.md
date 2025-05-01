@@ -9,6 +9,7 @@ I am an independent Ruby on Rails consultant and startup maker.
 * [Remotely jobs](https://www.remotely.jobs): Job board for finding and listing remote jobs
 * [AI Resume Builder](https://www.jobsgpt.org): JobsGPT - Free AI Resume Builder & AI job search
 
+
 <!-- * [Monorails](https://github.com/alexshapalov/monorails): Monolith Ruby on Rails application (Best Practice) -->
 <!--  Collection of useful libraries for web30, Crypto, and Blockchain. -->
 <!-- ### 🌱 I’m currently learning and watching: -->
