@@ -1,6 +1,4 @@
 Hi there 👋
-
-I am an independent Ruby on Rails consultant and startup maker.
 🔭 I'm recently starting and working on:
 * [PGRun](https://pgrun.dev): Fast Postgres database for builders and agents
 * [PGBot](https://pgrun.dev): Postgres intelligence for AI agents & apps 
