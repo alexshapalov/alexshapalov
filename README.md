@@ -4,7 +4,7 @@ Hi there 👋
 * [PGRun](https://pgrun.dev): Fast Postgres database for builders and agents
 * [PGBot](https://pgrun.dev): Postgres intelligence for AI agents & apps
 * [PGBook](https://pgbook.dev): Postgres Book
-* [PGBook](https://pgterm.dev): Modern Postgres Terminal
+* [PGTerm](https://pgterm.dev): Modern Postgres Terminal
 
 * [ActiveRabbit](https://www.activerabbit.ai): AI-driven Rails Performance Monitopring 
 * [RubyAI](https://github.com/alexshapalov/rubyai): Use the OpenAI API with Ruby, ChatGPT, ChatGPT4-
