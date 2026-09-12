@@ -1,7 +1,8 @@
 Hi there 👋
 🔭 I'm recently starting and working on:
 * [PGRun](https://pgrun.dev): Fast Postgres database for builders and agents
-* [PGBot](https://pgrun.dev): Postgres intelligence for AI agents & apps 
+* [PGBot](https://pgrun.dev): Postgres intelligence for AI agents & apps
+* [PGBook](https://pgrun.dev): Postgres Book 
 * [ActiveRabbit](https://www.activerabbit.ai): AI-driven Rails Performance Monitopring 
 * [RubyAI](https://github.com/alexshapalov/rubyai): Use the OpenAI API with Ruby, ChatGPT, ChatGPT4-
 * [Remotely jobs](https://www.remotely.jobs): Job board for finding and listing remote jobs
